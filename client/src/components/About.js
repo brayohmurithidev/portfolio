@@ -31,11 +31,8 @@ const About = () => {
         development.
       </Typography>
       <Typography variant="body1" mt={2} sx={{ fontWeight: 400 }}>
-        In my free time, I enjoy DJing and using music to fuel my creativity and
-        connect with others. This balance between my professional and personal
-        interests keeps me motivated to excel in web development. I look forward
-        to embracing new challenges and creating remarkable digital experiences
-        with each project.
+        I look forward to embracing new challenges and creating remarkable
+        digital experiences with each project.
       </Typography>
     </Box>
   );
